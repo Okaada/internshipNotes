@@ -37,5 +37,16 @@
 | ------ | ------ |
 | Azure Services | Functions, Service Bus, e por ai vai |
 
+| Git | Versionamento |
+| ------ | ------ |
+|Comandos básicos| status, commit, add, etc|
+|Árvore do Git| Como ela funciona|
+|Head, Stash|Importante saber sobre|
+|Rebases| Como organiza-los|
+|Local e Remote|Diferença|
+
+- Treinar comandos 
+    - https://learngitbranching.js.org/
+
 | SQL | Aqui não tem muito o que falar |
 | ------ | ------ |
