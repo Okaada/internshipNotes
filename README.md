@@ -50,3 +50,4 @@
 
 | SQL | Aqui não tem muito o que falar |
 | ------ | ------ |
+|Comandos|Entenda o que está fazendo|
