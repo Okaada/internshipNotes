@@ -33,7 +33,7 @@
 |Command Handlers||
 |Unit of Work|Não tenho certeza se isso é um pattern, mas não sabia onde encaixar|
 
-| Extas | Isso aqui não precisa dar tanta prioridade, estuda quando for usar |
+| Extras | Isso aqui não precisa dar tanta prioridade, estuda quando for usar |
 | ------ | ------ |
 | Azure Services | Functions, Service Bus, e por ai vai |
 
