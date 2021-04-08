@@ -47,6 +47,8 @@
 
 - Treinar comandos 
     - https://learngitbranching.js.org/
+- Comandos mais utilizados
+    - https://education.github.com/git-cheat-sheet-education.pdf
 
 | SQL | Aqui não tem muito o que falar |
 | ------ | ------ |
