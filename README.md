@@ -1,5 +1,6 @@
 ## Importante ter base
 
+
 | Angular |  |
 | ------ | ------ |
 | Tipos de Arquivos | Diferença entre Components, Modules, Services |
@@ -21,6 +22,7 @@
 | Frameworks  | Creio que seja: Entity Framework (Esqueci se tinha mais) |
 | Orientação a objetos | Os pilares  |
 |  SOLID // Clean Code | Isso aqui é extremamente importante |
+|  REST | Entender o modelo |
 
 - Macoratti sempre vai te ajudar, o blog dele é "simples" mas tem muito conteudo 
     - http://www.macoratti.net/Default.aspx
@@ -29,7 +31,7 @@
 | ------ | ------ |
 |DDD| Domain Driven Design|
 |TDD| Test Driven Development |
-|Repository Pattern||
+|Repository Pattern| Entender a diferença de uma service e uma repository principalmente! |
 |Command Handlers||
 |Unit of Work|Não tenho certeza se isso é um pattern, mas não sabia onde encaixar|
 
